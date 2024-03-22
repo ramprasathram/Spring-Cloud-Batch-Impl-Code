@@ -1,0 +1,10 @@
+com\tech\spring\batch\entity\Customer.class
+com\tech\spring\batch\repository\CustomerRepository.class
+com\tech\spring\batch\SpringBatchExampleApplication.class
+com\tech\spring\batch\config\CustomerProcessor.class
+com\tech\spring\batch\config\JobCompletionNotificationListener.class
+com\tech\spring\batch\listener\StepSkipListener.class
+com\tech\spring\batch\controller\BatchJobController.class
+com\tech\spring\batch\config\ExceptionSkipPolicy.class
+com\tech\spring\batch\config\SpringBatchConfig.class
+com\tech\spring\batch\config\CustomerItemWriter.class
