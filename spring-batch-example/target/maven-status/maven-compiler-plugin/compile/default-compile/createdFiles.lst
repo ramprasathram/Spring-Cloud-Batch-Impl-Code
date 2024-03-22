@@ -1,0 +1,3 @@
+com\tech\spring\batch\config\SpringBatchConfig.class
+com\tech\spring\batch\entity\Customer.class
+com\tech\spring\batch\repository\CustomerRepository.class
